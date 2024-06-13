@@ -1,5 +1,3 @@
-#include <iostream>
-#include <cmath> 
 
 void geometrica_macroName(){
   double a, r;
@@ -19,7 +17,7 @@ void geometrica_macroName(){
 
   //return 0;
 }
-// Funcion principal mai
+
 int main() {
     // Se llama a la función geometrica_macroName
     geometrica_macroName();
