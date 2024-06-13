@@ -1,3 +1,8 @@
+#include <iostream>
+#include <cmath> // bibliotecas necesarias
+
+using namespace std;
+
 void geometrica_macroName(){
   double a, r;
   int j;
@@ -15,4 +20,11 @@ void geometrica_macroName(){
   cout << "la suma de la seri geometrica es: " << total << endl;
 
   //return 0;
+}
+// Funcion principal mai
+int main() {
+    // Se llama a la función geometrica_macroName
+    geometrica_macroName();
+
+    return 0;
 }
