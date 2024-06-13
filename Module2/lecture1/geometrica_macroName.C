@@ -1,7 +1,5 @@
 #include <iostream>
-#include <cmath> // bibliotecas necesarias
-
-using namespace std;
+#include <cmath> 
 
 void geometrica_macroName(){
   double a, r;
